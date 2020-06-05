@@ -1,0 +1,912 @@
+[
+  {
+    "day": 4,
+    "month": 6,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-4-6-2020/",
+    "title": "Податоци за COVID-19 за 4.6.2020"
+  },
+  {
+    "day": 3,
+    "month": 6,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-3-6-2020/",
+    "title": "Податоци за COVID-19 за 3.6.2020"
+  },
+  {
+    "day": 2,
+    "month": 6,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-2-6-2020/",
+    "title": "Податоци за COVID-19 за 2.6.2020"
+  },
+  {
+    "day": 1,
+    "month": 6,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-1-6-2020/",
+    "title": "Податоци за COVID-19 за 1.6.2020"
+  },
+  {
+    "day": 1,
+    "month": 6,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-1-6-2020/",
+    "title": "Податоци за COVID-19 за 1.6.2020"
+  },
+  {
+    "day": 31,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-31-5-2020/",
+    "title": "Податоци за COVID-19 за 31.5.2020"
+  },
+  {
+    "day": 30,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-30-5-2020/",
+    "title": "Податоци за COVID-19 за 30.5.2020"
+  },
+  {
+    "day": 29,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-29-5-2020/",
+    "title": "Податоци за COVID-19 за 29.5.2020"
+  },
+  {
+    "day": 28,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-28-5-2020/",
+    "title": "Податоци за COVID-19 за 28.5.2020"
+  },
+  {
+    "day": 27,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-27-5-2020/",
+    "title": "Податоци за COVID-19 за 27.5.2020"
+  },
+  {
+    "day": 26,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-26-5-2020/",
+    "title": "Податоци за COVID-19 за 26.5.2020"
+  },
+  {
+    "day": 25,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-25-5-2020/",
+    "title": "Податоци за COVID-19 за 25.5.2020"
+  },
+  {
+    "day": 24,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-24-5-2020/",
+    "title": "Податоци за COVID-19 за 24.5.2020"
+  },
+  {
+    "day": 23,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-23-5-2020/",
+    "title": "Податоци за COVID-19 за 23.5.2020"
+  },
+  {
+    "day": 22,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-22-5-2020/",
+    "title": "Податоци за COVID-19 за 22.5.2020"
+  },
+  {
+    "day": 21,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-21-5-2020/",
+    "title": "Податоци за COVID-19 за 21.5.2020"
+  },
+  {
+    "day": 20,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-20-5-2020/",
+    "title": "Податоци за COVID-19 за 20.5.2020"
+  },
+  {
+    "day": 19,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-19-5-2020/",
+    "title": "Податоци за COVID-19 за 19.5.2020"
+  },
+  {
+    "day": 18,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-18-5-2020/",
+    "title": "Податоци за COVID-19 за 18.5.2020"
+  },
+  {
+    "day": 17,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-17-5-2020/",
+    "title": "Податоци за COVID-19 за 17.5.2020"
+  },
+  {
+    "day": 16,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-19-za-16-5-2020/",
+    "title": "Податоци за COVID-19 за 16.5.2020"
+  },
+  {
+    "day": 15,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-za-15-5-2020/",
+    "title": "Податоци за COVID-19 за 15.5.2020"
+  },
+  {
+    "day": 14,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid-za-14-5-2020/",
+    "title": "Податоци за COVID-19 за 14.5.2020"
+  },
+  {
+    "day": 13,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid19-za-13-5-2020/",
+    "title": "Податоци за COVID-19 за 13.5.2020"
+  },
+  {
+    "day": 12,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-12-5-2020/",
+    "title": "Податоци за COVID-19 за 12.5.2020"
+  },
+  {
+    "day": 11,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-11-5-2020/",
+    "title": "Податоци за COVID-19 за 11.5.2020"
+  },
+  {
+    "day": 10,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-10-5-2020/",
+    "title": "Податоци за COVID-19 за 10.5.2020"
+  },
+  {
+    "day": 9,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-9-5-2020/",
+    "title": "Податоци за COVID-19 за 9.5.2020"
+  },
+  {
+    "day": 8,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-8-5-2020/",
+    "title": "Податоци за COVID-19 за 8.5.2020"
+  },
+  {
+    "day": 7,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-7-5-2020/",
+    "title": "Податоци за COVID-19 за 7.5.2020"
+  },
+  {
+    "day": 6,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-6-5-2020/",
+    "title": "Податоци за COVID-19 за 6.5.2020"
+  },
+  {
+    "day": 5,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-5-5-2020/",
+    "title": "Податоци за COVID-19 за 5.5.2020"
+  },
+  {
+    "day": 4,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-4-5-2020/",
+    "title": "Податоци за COVID-19 за 4.5.2020"
+  },
+  {
+    "day": 2,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid19-za-2-5-2020/",
+    "title": "Податоци за COVID-19 за 2.5.2020"
+  },
+  {
+    "day": 1,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-1-5-2020/",
+    "title": "Податоци за COVID-19 за 1.5.2020"
+  },
+  {
+    "day": 30,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid-3042020/",
+    "title": "Податоци за COVID-19 за 30.4.2020"
+  },
+  {
+    "day": 29,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-29-4-2020/",
+    "title": "Податоци за COVID-19 за 29.4.2020"
+  },
+  {
+    "day": 28,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-28-4-2020/",
+    "title": "Податоци за COVID-19 за 28.4.2020"
+  },
+  {
+    "day": 27,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-27-4-2020/",
+    "title": "Податоци за COVID-19 за 27.4.2020"
+  },
+  {
+    "day": 26,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-26-4-2020/",
+    "title": "Податоци за COVID-19 за 26.4.2020"
+  },
+  {
+    "day": 25,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-25-4-2020/",
+    "title": "Податоци за COVID-19 за 25.4.2020"
+  },
+  {
+    "day": 24,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-24-4-2020/",
+    "title": "Податоци за COVID-19 за 24.4.2020"
+  },
+  {
+    "day": 23,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-23-4-2020/",
+    "title": "Податоци за COVID-19 за 23.4.2020"
+  },
+  {
+    "day": 22,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-22-4-2020/",
+    "title": "Податоци за COVID-19 за 22.4.2020"
+  },
+  {
+    "day": 21,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid19-za-21-4-2020/",
+    "title": "Податоци за COVID-19 за 21.4.2020"
+  },
+  {
+    "day": 20,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-20-4-2020/",
+    "title": "Податоци за COVID-19 за 20.4.2020"
+  },
+  {
+    "day": 19,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-19-4-2020/",
+    "title": "Податоци за COVID-19 за 19.4.2020"
+  },
+  {
+    "day": 18,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-18-4-2020/",
+    "title": "Податоци за COVID-19 за 18.4.2020"
+  },
+  {
+    "day": 17,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/podatoci-za-covid19-za-17-4-2020/",
+    "title": "Податоци за COVID-19 за 17.4.2020"
+  },
+  {
+    "day": 3,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-3-5-2020/",
+    "title": "Податоци за  COVID-19 за 3.5.2020"
+  },
+  {
+    "day": 3,
+    "month": 6,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-19-3-6-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 3.6.2020"
+  },
+  {
+    "day": 2,
+    "month": 6,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid19-262020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 2.6.2020"
+  },
+  {
+    "day": 1,
+    "month": 6,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid19-za-162020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 1.6.2020"
+  },
+  {
+    "day": 31,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-19-3152020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 31.5.2020"
+  },
+  {
+    "day": 30,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid19-3052020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 30.5.2020"
+  },
+  {
+    "day": 29,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-19-2952020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 29.5.2020"
+  },
+  {
+    "day": 28,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-2852020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 28.5.2020"
+  },
+  {
+    "day": 27,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-19-2752020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 27.5.2020"
+  },
+  {
+    "day": 26,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid19-za-2752020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 26.5.2020"
+  },
+  {
+    "day": 25,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid19-2552020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 25.5.2020"
+  },
+  {
+    "day": 24,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-19-2452020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 24.5.2020"
+  },
+  {
+    "day": 23,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-19-23-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 23.5.2020"
+  },
+  {
+    "day": 22,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid19-za-2252020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 22.5.2020"
+  },
+  {
+    "day": 21,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-19-2152020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 21.5.2020"
+  },
+  {
+    "day": 20,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-19-2052020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 20.5.2020"
+  },
+  {
+    "day": 19,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-19-vo-rsm-i-svetot-1952020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 19.5.2020"
+  },
+  {
+    "day": 18,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-19-1852020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 18.5.2020"
+  },
+  {
+    "day": 17,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid-19-17-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 17.5.2020"
+  },
+  {
+    "day": 16,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-za-16-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 16.5.2020"
+  },
+  {
+    "day": 15,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-15-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 15.5.2020"
+  },
+  {
+    "day": 14,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid19-za-14-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 14.5.2020"
+  },
+  {
+    "day": 13,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid-19-za-1352020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 13.5.2020"
+  },
+  {
+    "day": 12,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-12-5-2020-2/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 12.5.2020"
+  },
+  {
+    "day": 11,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-12-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 11.5.2020"
+  },
+  {
+    "day": 10,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-10-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 10.5.2020"
+  },
+  {
+    "day": 9,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-9-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 9.5.2020"
+  },
+  {
+    "day": 8,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-9/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 8.5.2020"
+  },
+  {
+    "day": 7,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-8/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 7.5.2020"
+  },
+  {
+    "day": 7,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid-7-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 7.5.2020"
+  },
+  {
+    "day": 6,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid-6-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 6.5.2020"
+  },
+  {
+    "day": 5,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-5-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 5.5.2020"
+  },
+  {
+    "day": 4,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid-za-4-5-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 4.5.2020"
+  },
+  {
+    "day": 3,
+    "month": 5,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-352020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 3.5.2020"
+  },
+  {
+    "day": 29,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-7/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 29.4.2020"
+  },
+  {
+    "day": 28,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-28-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 28.4.2020"
+  },
+  {
+    "day": 27,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-6/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 27.4.2020"
+  },
+  {
+    "day": 26,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-5/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 26.4.2020"
+  },
+  {
+    "day": 25,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-25-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 25.4.2020"
+  },
+  {
+    "day": 24,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-4/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 24.4.2020"
+  },
+  {
+    "day": 23,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-3/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 23.4.2020"
+  },
+  {
+    "day": 22,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-2/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 22.4.2020"
+  },
+  {
+    "day": 21,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-21-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 21.4.2020"
+  },
+  {
+    "day": 20,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-20-4-2020-2/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 20.4.2020"
+  },
+  {
+    "day": 16,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-16-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 16.4.2020"
+  },
+  {
+    "day": 15,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-15-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 15.4.2020"
+  },
+  {
+    "day": 14,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-14-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 14.4.2020"
+  },
+  {
+    "day": 13,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-13-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 13.4.2020"
+  },
+  {
+    "day": 12,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-12-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 12.4.2020"
+  },
+  {
+    "day": 11,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-11-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 11.4.2020"
+  },
+  {
+    "day": 10,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-10-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 10.4.2020"
+  },
+  {
+    "day": 9,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-9-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 9.4.2020"
+  },
+  {
+    "day": 8,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-8-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 8.4.2020"
+  },
+  {
+    "day": 7,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-7-4-2020g/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 7.4.2020"
+  },
+  {
+    "day": 6,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-6-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 6.4.2020"
+  },
+  {
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-5-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 5.4.2020"
+  },
+  {
+    "day": 4,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-4-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Мaкедонија и светот 4.4.2020"
+  },
+  {
+    "day": 3,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-3-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот – 3.4.2020"
+  },
+  {
+    "day": 2,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-2-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот – 2.4.2020"
+  },
+  {
+    "day": 1,
+    "month": 4,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-1-4-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот -1.4.2020"
+  },
+  {
+    "day": 31,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-31-3-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот – 31.3.2020"
+  },
+  {
+    "day": 30,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-30-3-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот – 30.3.2020"
+  },
+  {
+    "day": 29,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-29-3-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот – 29.3.2020"
+  },
+  {
+    "day": 27,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-27-3-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот 27.03.2020"
+  },
+  {
+    "day": 26,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот – 26.3.2020"
+  },
+  {
+    "day": 25,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid-25-3-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот- 25.3.2020"
+  },
+  {
+    "day": 24,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-24-03-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот- 24.3.2020"
+  },
+  {
+    "day": 23,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-19-vo-severna-makedonija-i-svetot-23-3-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот (23.3.2020)"
+  },
+  {
+    "day": 22,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid19-vo-severna-makedonija-i-svetot-22-03-2020/",
+    "title": "Состојба со COVID-19 во Северна Македонија и светот (22.03.2020)"
+  },
+  {
+    "day": 16,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-vo-svetot-16-03-2020/",
+    "title": "Состојба со COVID-19 во светот (16.03.2020)"
+  },
+  {
+    "day": 15,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b2%d0%b5%d1%82%d0%be%d1%82-15-03-2020/",
+    "title": "Состојба со COVID-19 во светот (15.03.2020)"
+  },
+  {
+    "day": 14,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-vo-svetot-14-3-2020/",
+    "title": "Состојба со COVID-19 во светот (14.03.2020)"
+  },
+  {
+    "day": 13,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/covid19-13-3-2020/",
+    "title": "Состојба со COVID-19 во светот (13.03.2020)"
+  },
+  {
+    "day": 12,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b2%d0%b5%d1%82%d0%be%d1%82-12-03-2020/",
+    "title": "Состојба со COVID-19 во светот (12.03.2020)"
+  },
+  {
+    "day": 11,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-vo-svetot-zaklucno-so-11-3-2020/",
+    "title": "Состојба со COVID-19 во светот (11.03.2020)"
+  },
+  {
+    "day": 10,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-10-3-2020/",
+    "title": "Состојба со COVID-19 во светот (10.03.2020)"
+  },
+  {
+    "day": 9,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-covid-19-9-3-2020/",
+    "title": "Состојба со COVID-19 во светот (09.03.2020)"
+  },
+  {
+    "day": 5,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-vo-svetot-zaklucno-so-5-3-2020/",
+    "title": "Состојба со COVID-19 во светот (заклучно со 05.03.2020)"
+  },
+  {
+    "day": 4,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-vo-svetot-zaklucno-so-4-3-2020/",
+    "title": "Состојба со COVID-19 во светот ( заклучно со 04.03.2020)"
+  },
+  {
+    "day": 3,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-vo-svetot-zaklucno-so-3-3-2020/",
+    "title": "Состојба со COVID-19 во светот (заклучно со 03.03.2020)"
+  },
+  {
+    "day": 2,
+    "month": 3,
+    "year": 2020,
+    "url": "https://www.iph.mk/sostojba-so-covid-vo-svetot-zaklucno-so-2-3-2020/",
+    "title": "Состојба со COVID-19 во светот (заклучно со 02.03.2020)"
+  }
+]
